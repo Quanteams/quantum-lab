@@ -1,0 +1,6 @@
+[submodule "2021/andy"]
+	path = 2021/andy
+	url = https://github.com/Quanteams/andy.git
+[submodule "2021/robin"]
+	path = 2021/robin
+	url = https://github.com/Quanteams/robin.git
