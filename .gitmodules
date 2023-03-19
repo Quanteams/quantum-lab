@@ -82,3 +82,6 @@
 [submodule "2022/fei"]
 	path = 2022/fei
 	url = https://gitee.com/quanteams/fei.git
+[submodule "2021/andy"]
+	path = 2021/andy
+	url = https://gitee.com/quanteams/andy.git
