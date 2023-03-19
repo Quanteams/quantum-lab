@@ -1,87 +1,87 @@
 [submodule "2019/lei"]
 	path = 2019/lei
-	url = https://gitee.com/quanteams/lei.git
+	url = https://github.com/Quanteams/lei.git
 [submodule "2019/xiang"]
 	path = 2019/xiang
-	url = https://gitee.com/quanteams/xiang.git
+	url = https://github.com/Quanteams/xiang.git
 [submodule "2019/jie"]
 	path = 2019/jie
-	url = https://gitee.com/quanteams/jie.git
+	url = https://github.com/Quanteams/jie.git
 [submodule "2019/qiu"]
 	path = 2019/qiu
-	url = https://gitee.com/quanteams/qiu.git
+	url = https://github.com/Quanteams/qiu.git
 [submodule "2020/bin"]
 	path = 2020/bin
-	url = https://gitee.com/quanteams/bin.git
+	url = https://github.com/Quanteams/bin.git
 [submodule "2020/zha"]
 	path = 2020/zha
-	url = https://gitee.com/quanteams/zha.git
+	url = https://github.com/Quanteams/zha.git
 [submodule "2020/xin"]
 	path = 2020/xin
-	url = https://gitee.com/quanteams/xin.git
+	url = https://github.com/Quanteams/xin.git
 [submodule "2020/jian"]
 	path = 2020/jian
-	url = https://gitee.com/quanteams/jian.git
+	url = https://github.com/Quanteams/jian.git
 [submodule "2020/quan"]
 	path = 2020/quan
-	url = https://gitee.com/quanteams/quan.git
+	url = https://github.com/Quanteams/quan.git
 [submodule "2020/hou"]
 	path = 2020/hou
-	url = https://gitee.com/quanteams/hou.git
+	url = https://github.com/Quanteams/hou.git
 [submodule "2020/yi"]
 	path = 2020/yi
-	url = https://gitee.com/quanteams/yi.git
+	url = https://github.com/Quanteams/yi.git
 [submodule "2020/qian"]
 	path = 2020/qian
-	url = https://gitee.com/quanteams/qian.git
+	url = https://github.com/Quanteams/qian.git
 [submodule "2020/xing"]
 	path = 2020/xing
-	url = https://gitee.com/quanteams/xing.git
+	url = https://github.com/Quanteams/xing.git
 [submodule "2020/qi"]
 	path = 2020/qi
-	url = https://gitee.com/quanteams/qi.git
+	url = https://github.com/Quanteams/qi.git
 [submodule "2020/liao"]
 	path = 2020/liao
-	url = https://gitee.com/quanteams/liao.git
-[submodule "2021/robin"]
-	path = 2021/robin
-	url = https://gitee.com/quanteams/robin.git
-[submodule "2021/xuan"]
-	path = 2021/xuan
-	url = https://gitee.com/quanteams/xuan.git
-[submodule "2021/lina"]
-	path = 2021/lina
-	url = https://gitee.com/quanteams/lina.git
-[submodule "2021/xie"]
-	path = 2021/xie
-	url = https://gitee.com/quanteams/xie.git
-[submodule "2021/luo"]
-	path = 2021/luo
-	url = https://gitee.com/quanteams/luo.git
-[submodule "2021/henry"]
-	path = 2021/henry
-	url = https://gitee.com/quanteams/henry.git
-[submodule "2022/rui"]
-	path = 2022/rui
-	url = https://gitee.com/quanteams/rui.git
-[submodule "2022/xu"]
-	path = 2022/xu
-	url = https://gitee.com/quanteams/xu.git
-[submodule "2022/hao"]
-	path = 2022/hao
-	url = https://gitee.com/quanteams/hao.git
-[submodule "2022/ting"]
-	path = 2022/ting
-	url = https://gitee.com/quanteams/ting.git
-[submodule "2022/kang"]
-	path = 2022/kang
-	url = https://gitee.com/quanteams/kang.git
-[submodule "2022/qiao"]
-	path = 2022/qiao
-	url = https://gitee.com/quanteams/qiao.git
-[submodule "2022/fei"]
-	path = 2022/fei
-	url = https://gitee.com/quanteams/fei.git
+	url = https://github.com/Quanteams/liao.git
 [submodule "2021/andy"]
 	path = 2021/andy
-	url = https://gitee.com/quanteams/andy.git
+	url = https://github.com/Quanteams/andy.git
+[submodule "2021/robin"]
+	path = 2021/robin
+	url = https://github.com/Quanteams/robin.git
+[submodule "2021/xuan"]
+	path = 2021/xuan
+	url = https://github.com/Quanteams/xuan.git
+[submodule "2021/lina"]
+	path = 2021/lina
+	url = https://github.com/Quanteams/lina.git
+[submodule "2021/xie"]
+	path = 2021/xie
+	url = https://github.com/Quanteams/xie.git
+[submodule "2021/luo"]
+	path = 2021/luo
+	url = https://github.com/Quanteams/luo.git
+[submodule "2021/henry"]
+	path = 2021/henry
+	url = https://github.com/Quanteams/henry.git
+[submodule "2022/rui"]
+	path = 2022/rui
+	url = https://github.com/Quanteams/rui.git
+[submodule "2022/xu"]
+	path = 2022/xu
+	url = https://github.com/Quanteams/xu.git
+[submodule "2022/hao"]
+	path = 2022/hao
+	url = https://github.com/Quanteams/hao.git
+[submodule "2022/ting"]
+	path = 2022/ting
+	url = https://github.com/Quanteams/ting.git
+[submodule "2022/kang"]
+	path = 2022/kang
+	url = https://github.com/Quanteams/kang.git
+[submodule "2022/qiao"]
+	path = 2022/qiao
+	url = https://github.com/Quanteams/qiao.git
+[submodule "2022/fei"]
+	path = 2022/fei
+	url = https://github.com/Quanteams/fei.git
