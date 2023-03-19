@@ -1,9 +1,3 @@
-[submodule "2021/andy"]
-	path = 2021/andy
-	url = https://github.com/Quanteams/andy.git
-[submodule "2021/robin"]
-	path = 2021/robin
-	url = https://github.com/Quanteams/robin.git
 [submodule "2019/lei"]
 	path = 2019/lei
 	url = https://github.com/Quanteams/lei.git
@@ -16,21 +10,6 @@
 [submodule "2019/qiu"]
 	path = 2019/qiu
 	url = https://github.com/Quanteams/qiu.git
-[submodule "2021/xuan"]
-	path = 2021/xuan
-	url = https://github.com/Quanteams/xuan.git
-[submodule "2021/lina"]
-	path = 2021/lina
-	url = https://github.com/Quanteams/lina.git
-[submodule "2021/xie"]
-	path = 2021/xie
-	url = https://github.com/Quanteams/xie.git
-[submodule "2021/luo"]
-	path = 2021/luo
-	url = https://github.com/Quanteams/luo.git
-[submodule "2021/henry"]
-	path = 2021/henry
-	url = https://github.com/Quanteams/henry.git
 [submodule "2020/bin"]
 	path = 2020/bin
 	url = https://github.com/Quanteams/bin.git
@@ -64,6 +43,27 @@
 [submodule "2020/liao"]
 	path = 2020/liao
 	url = https://github.com/Quanteams/liao.git
+[submodule "2021/andy"]
+	path = 2021/andy
+	url = https://github.com/Quanteams/andy.git
+[submodule "2021/robin"]
+	path = 2021/robin
+	url = https://github.com/Quanteams/robin.git
+[submodule "2021/xuan"]
+	path = 2021/xuan
+	url = https://github.com/Quanteams/xuan.git
+[submodule "2021/lina"]
+	path = 2021/lina
+	url = https://github.com/Quanteams/lina.git
+[submodule "2021/xie"]
+	path = 2021/xie
+	url = https://github.com/Quanteams/xie.git
+[submodule "2021/luo"]
+	path = 2021/luo
+	url = https://github.com/Quanteams/luo.git
+[submodule "2021/henry"]
+	path = 2021/henry
+	url = https://github.com/Quanteams/henry.git
 [submodule "2022/rui"]
 	path = 2022/rui
 	url = https://github.com/Quanteams/rui.git
