@@ -43,9 +43,6 @@
 [submodule "2020/liao"]
 	path = 2020/liao
 	url = https://gitee.com/quanteams/liao.git
-[submodule "2021/andy"]
-	path = 2021/andy
-	url = https://gitee.com/quanteams/andy.git
 [submodule "2021/robin"]
 	path = 2021/robin
 	url = https://gitee.com/quanteams/robin.git
