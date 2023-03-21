@@ -1,6 +1,6 @@
-# 量子实验高端团队
+# 量子高端实验团队
 
-重庆师范大学(CQNU)
+重庆师范大学 (CQNU) 董玉民实验室
 
 ## 2019
 - [张津磊](https://github.com/Quanteams/lei.git)
