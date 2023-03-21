@@ -2,6 +2,11 @@
 
 重庆师范大学 (CQNU) 董玉民实验室
 
+## 克隆本仓库
+```
+git clone https://github.com/Quanteams/quantum-main.git --recursive
+```
+
 ## 2019
 - [张津磊](https://github.com/Quanteams/lei.git)
 - [黄治杰](https://github.com/Quanteams/jie.git)
